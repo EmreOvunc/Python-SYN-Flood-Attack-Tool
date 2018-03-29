@@ -1,3 +1,4 @@
+#!/usr/bin/python
 # Emre Ovunc
 # info@emreovunc.com
 # Syn Flood Tool Python
@@ -51,11 +52,12 @@ def info():
 	dstIP = raw_input ("\nTarget IP : ")
 	dstPort = input ("Target Port : ")
 	
-	return dstIP,dstPort
+	return dstIP,int(dstPort)
+	
 
 def main():
 	dstIP,dstPort = info()
 	counter = input ("How many packets do you want to send : ")
-	SYN_Flood(dstIP,dstPort,counter)
+	SYN_Flood(dstIP,dstPort,int(counter))
 
 main()
