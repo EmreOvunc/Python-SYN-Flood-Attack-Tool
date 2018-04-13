@@ -43,8 +43,7 @@ def SYN_Flood(dstIP,dstPort,counter):
 def info():
 	os.system("clear")
 	print "#############################"
-	print "#         EmreOvunc         #"
-	print "#     info@emreovunc.com    #"
+	print "#    github.com/EmreOvunc   #"
 	print "#############################"
 	print "# Welcome to SYN Flood Tool #"
 	print "#############################"
