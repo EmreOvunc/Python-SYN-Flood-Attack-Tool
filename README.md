@@ -10,7 +10,7 @@ You can start SYN Flood attack with this tool.
 
 Simple and efficient.
 
-## Dependicies
+## Dependencies
 ```
 apt install python-scapy
 apt install python3-scapy
