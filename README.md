@@ -34,4 +34,6 @@ python SYN-Flood.py
 ```
 
 
-![alt tag](https://emreovunc.com/projects/Syn_Flood.png)
+![alt tag](https://emreovunc.com/projects/Syn_Flood_01.png)
+
+![alt tag](https://emreovunc.com/projects/Syn_Flood_02.png)
